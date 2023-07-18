@@ -1,0 +1,8 @@
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\bin\Debug\MergedTwoList.exe.config
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\bin\Debug\MergedTwoList.exe
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\bin\Debug\MergedTwoList.pdb
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\obj\Debug\MergedTwoList.csproj.AssemblyReference.cache
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\obj\Debug\MergedTwoList.csproj.SuggestedBindingRedirects.cache
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\obj\Debug\MergedTwoList.csproj.CoreCompileInputs.cache
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\obj\Debug\MergedTwoList.exe
+E:\leetProblems\MergingTwoSortedList\MergingTwoLists\MergedTwoList\MergedTwoList\obj\Debug\MergedTwoList.pdb
